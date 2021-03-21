@@ -1,4 +1,4 @@
-#ecoss 번호판 인식
+#yechan 번호판 인식 프로그램
 # version 1.0.0.0 : 심예찬 작성
 #  - 최초 실행하는것 확인
 #
@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pytesseract
 
-pytesseract.pytesseract.tesseract_cmd = r'E:\Program Files\Tesseract-OCR\tesseract.exe'
+#pytesseract.pytesseract.tesseract_cmd = r'E:\Program Files\Tesseract-OCR\tesseract.exe'
 
 
 plt.style.use('dark_background')
